@@ -1,6 +1,10 @@
-# 💫 About Me:
-# 💻 Vaibhav Saraff<br><br>Hi there! I'm **Vaibhav**, a passionate **Computer Science & IT undergrad** from **Ajay Kumar Garg Engineering College**, with hands-on experience in building **AI-powered systems**, **full-stack applications**, and **LLM-integrated chatbots**.<br><br>🔭 Currently working on:<br>- 🌊 **AQUAGUARDIAN** — an AI-powered water quality monitoring system that detects contamination sources and supports proactive water management.<br>- 🧠 Customizable LLM-based Chatbots with vector stores, dynamic prompts, and session-aware memory using **Flask**, **FAISS**, **MongoDB**, and **Ollama**.<br>- 📦 Inventory Management Platforms and automation tools during my internship at **Hotelogix**.<br><br>🌱 I’m improving my skills in:<br>- Advanced **Python**, **LLMs**, and **Prompt Engineering**<br>- **Generative AI**, **Model fine-tuning**, and **Cloud integration**<br>- **Java** for DSA and backend APIs<br><br>👨‍💻 Tech Stack:<br>`Python` `Java` `HTML` `CSS` `JavaScript` `PHP` `MySQL`  <br>`MongoDB` `Flask` `FastAPI` `React.js` `Git/GitHub`  <br>`LLMs` `FAISS` `OpenAI API` `Google Cloud` `Ollama`<br><br>📫 Reach out to collaborate or connect:<br>- 🌐 [LinkedIn](https://www.linkedin.com/in/vaibhav-saraff/)<br>- 📩 Email: vaibhav.saraff@example.com<br><br>---<br><br>🔁 *“Building impactful tech by blending AI with real-world problems.”*<br><br>
+# 💫 About Me
 
+👨‍💻 Full-stack developer 
+🤖 Exploring AI/ML & LLMs — building a smart researcher assistant  
+🤝 Open to collabs on real-world AI & full-stack projects  
+🧠 Always learning | Love clean code, good UI, and smart systems  
+💬 Ask me about web dev, APIs, UI/UX, or making AI useful!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vaibhavsaraff0535) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VAIBHAV024SARAFF) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/VAIBHAV024SARAFF) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-saraff) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vaibhav Saraff) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhav024saraff@gmail.com) 
